@@ -8,4 +8,4 @@ script: ./mvn clean install
 jobs:
   include:
     - stage: Test
-      script: ./mvn test
+      script: mvn test -f ./source/pom.xml
