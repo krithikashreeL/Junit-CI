@@ -5,7 +5,7 @@ jdk:
 script: ./mvn clean install
 
 
-jobs:
-  include:
-    - stage: Test
-      script: mvn test -B
+#jobs:
+  #include:
+  #  - stage: Test
+ #     script: mvn test -B
