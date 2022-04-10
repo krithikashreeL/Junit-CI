@@ -1,7 +1,6 @@
 language: java
 sudo: false
-script:"mvn cobertura:cobertura coveralls:report"
-# mvn clean verify
+script: mvn clean verify
 
 #language: java
 #jdk:
