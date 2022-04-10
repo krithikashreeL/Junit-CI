@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1107" failures="0" name="RegressionTest" time="0.144" errors="0" skipped="0">
+<testsuite tests="1107" failures="0" name="RegressionTest" time="0.124" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.3.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_271\jre\bin"/>
     <property name="java.vm.version" value="25.271-b09"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Admin\Desktop\Houston\SEM-2\PAT\Maven project\intellij"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Admin\Desktop\Junit-CI"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Admin\Desktop\Houston\SEM-2\PAT\Maven project\intellij"/>
+    <property name="user.dir" value="C:\Users\Admin\Desktop\Junit-CI"/>
     <property name="java.runtime.version" value="1.8.0_271-b09"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_271\jre\lib\endorsed"/>
@@ -64,7 +64,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="RegressionTest0" name="test001" time="0.008"/>
+  <testcase classname="RegressionTest0" name="test001" time="0.016"/>
   <testcase classname="RegressionTest0" name="test002" time="0"/>
   <testcase classname="RegressionTest0" name="test003" time="0"/>
   <testcase classname="RegressionTest0" name="test004" time="0"/>
@@ -76,7 +76,7 @@
   <testcase classname="RegressionTest0" name="test010" time="0"/>
   <testcase classname="RegressionTest0" name="test011" time="0"/>
   <testcase classname="RegressionTest0" name="test012" time="0"/>
-  <testcase classname="RegressionTest0" name="test013" time="0.01"/>
+  <testcase classname="RegressionTest0" name="test013" time="0"/>
   <testcase classname="RegressionTest0" name="test014" time="0"/>
   <testcase classname="RegressionTest0" name="test015" time="0"/>
   <testcase classname="RegressionTest0" name="test016" time="0"/>
@@ -126,7 +126,7 @@
   <testcase classname="RegressionTest0" name="test060" time="0"/>
   <testcase classname="RegressionTest0" name="test061" time="0"/>
   <testcase classname="RegressionTest0" name="test062" time="0"/>
-  <testcase classname="RegressionTest0" name="test063" time="0.015"/>
+  <testcase classname="RegressionTest0" name="test063" time="0"/>
   <testcase classname="RegressionTest0" name="test064" time="0"/>
   <testcase classname="RegressionTest0" name="test065" time="0"/>
   <testcase classname="RegressionTest0" name="test066" time="0"/>
@@ -158,7 +158,7 @@
   <testcase classname="RegressionTest0" name="test092" time="0"/>
   <testcase classname="RegressionTest0" name="test093" time="0"/>
   <testcase classname="RegressionTest0" name="test094" time="0"/>
-  <testcase classname="RegressionTest0" name="test095" time="0.016"/>
+  <testcase classname="RegressionTest0" name="test095" time="0"/>
   <testcase classname="RegressionTest0" name="test096" time="0"/>
   <testcase classname="RegressionTest0" name="test097" time="0"/>
   <testcase classname="RegressionTest0" name="test098" time="0"/>
@@ -179,7 +179,7 @@
   <testcase classname="RegressionTest0" name="test113" time="0"/>
   <testcase classname="RegressionTest0" name="test114" time="0"/>
   <testcase classname="RegressionTest0" name="test115" time="0"/>
-  <testcase classname="RegressionTest0" name="test116" time="0.016"/>
+  <testcase classname="RegressionTest0" name="test116" time="0"/>
   <testcase classname="RegressionTest0" name="test117" time="0"/>
   <testcase classname="RegressionTest0" name="test118" time="0"/>
   <testcase classname="RegressionTest0" name="test119" time="0"/>
@@ -269,7 +269,7 @@
   <testcase classname="RegressionTest0" name="test203" time="0"/>
   <testcase classname="RegressionTest0" name="test204" time="0"/>
   <testcase classname="RegressionTest0" name="test205" time="0"/>
-  <testcase classname="RegressionTest0" name="test206" time="0"/>
+  <testcase classname="RegressionTest0" name="test206" time="0.016"/>
   <testcase classname="RegressionTest0" name="test207" time="0"/>
   <testcase classname="RegressionTest0" name="test208" time="0"/>
   <testcase classname="RegressionTest0" name="test209" time="0"/>
@@ -299,7 +299,7 @@
   <testcase classname="RegressionTest0" name="test233" time="0"/>
   <testcase classname="RegressionTest0" name="test234" time="0"/>
   <testcase classname="RegressionTest0" name="test235" time="0"/>
-  <testcase classname="RegressionTest0" name="test236" time="0"/>
+  <testcase classname="RegressionTest0" name="test236" time="0.016"/>
   <testcase classname="RegressionTest0" name="test237" time="0"/>
   <testcase classname="RegressionTest0" name="test238" time="0"/>
   <testcase classname="RegressionTest0" name="test239" time="0"/>
@@ -382,7 +382,7 @@
   <testcase classname="RegressionTest0" name="test316" time="0"/>
   <testcase classname="RegressionTest0" name="test317" time="0"/>
   <testcase classname="RegressionTest0" name="test318" time="0"/>
-  <testcase classname="RegressionTest0" name="test319" time="0.015"/>
+  <testcase classname="RegressionTest0" name="test319" time="0"/>
   <testcase classname="RegressionTest0" name="test320" time="0"/>
   <testcase classname="RegressionTest0" name="test321" time="0"/>
   <testcase classname="RegressionTest0" name="test322" time="0"/>
@@ -390,7 +390,7 @@
   <testcase classname="RegressionTest0" name="test324" time="0"/>
   <testcase classname="RegressionTest0" name="test325" time="0"/>
   <testcase classname="RegressionTest0" name="test326" time="0"/>
-  <testcase classname="RegressionTest0" name="test327" time="0"/>
+  <testcase classname="RegressionTest0" name="test327" time="0.007"/>
   <testcase classname="RegressionTest0" name="test328" time="0"/>
   <testcase classname="RegressionTest0" name="test329" time="0"/>
   <testcase classname="RegressionTest0" name="test330" time="0"/>
@@ -497,7 +497,7 @@
   <testcase classname="RegressionTest0" name="test431" time="0"/>
   <testcase classname="RegressionTest0" name="test432" time="0"/>
   <testcase classname="RegressionTest0" name="test433" time="0"/>
-  <testcase classname="RegressionTest0" name="test434" time="0.016"/>
+  <testcase classname="RegressionTest0" name="test434" time="0"/>
   <testcase classname="RegressionTest0" name="test435" time="0"/>
   <testcase classname="RegressionTest0" name="test436" time="0"/>
   <testcase classname="RegressionTest0" name="test437" time="0"/>
@@ -674,7 +674,7 @@
   <testcase classname="RegressionTest1" name="test108" time="0"/>
   <testcase classname="RegressionTest1" name="test109" time="0"/>
   <testcase classname="RegressionTest1" name="test110" time="0"/>
-  <testcase classname="RegressionTest1" name="test111" time="0"/>
+  <testcase classname="RegressionTest1" name="test111" time="0.015"/>
   <testcase classname="RegressionTest1" name="test112" time="0"/>
   <testcase classname="RegressionTest1" name="test113" time="0"/>
   <testcase classname="RegressionTest1" name="test114" time="0"/>
@@ -791,7 +791,7 @@
   <testcase classname="RegressionTest1" name="test225" time="0"/>
   <testcase classname="RegressionTest1" name="test226" time="0"/>
   <testcase classname="RegressionTest1" name="test227" time="0"/>
-  <testcase classname="RegressionTest1" name="test228" time="0"/>
+  <testcase classname="RegressionTest1" name="test228" time="0.016"/>
   <testcase classname="RegressionTest1" name="test229" time="0"/>
   <testcase classname="RegressionTest1" name="test230" time="0"/>
   <testcase classname="RegressionTest1" name="test231" time="0"/>
@@ -847,7 +847,7 @@
   <testcase classname="RegressionTest1" name="test281" time="0"/>
   <testcase classname="RegressionTest1" name="test282" time="0"/>
   <testcase classname="RegressionTest1" name="test283" time="0"/>
-  <testcase classname="RegressionTest1" name="test284" time="0"/>
+  <testcase classname="RegressionTest1" name="test284" time="0.016"/>
   <testcase classname="RegressionTest1" name="test285" time="0"/>
   <testcase classname="RegressionTest1" name="test286" time="0"/>
   <testcase classname="RegressionTest1" name="test287" time="0"/>
@@ -867,7 +867,7 @@
   <testcase classname="RegressionTest1" name="test301" time="0"/>
   <testcase classname="RegressionTest1" name="test302" time="0"/>
   <testcase classname="RegressionTest1" name="test303" time="0"/>
-  <testcase classname="RegressionTest1" name="test304" time="0"/>
+  <testcase classname="RegressionTest1" name="test304" time="0.006"/>
   <testcase classname="RegressionTest1" name="test305" time="0"/>
   <testcase classname="RegressionTest1" name="test306" time="0"/>
   <testcase classname="RegressionTest1" name="test307" time="0"/>
@@ -900,7 +900,7 @@
   <testcase classname="RegressionTest1" name="test334" time="0"/>
   <testcase classname="RegressionTest1" name="test335" time="0"/>
   <testcase classname="RegressionTest1" name="test336" time="0"/>
-  <testcase classname="RegressionTest1" name="test337" time="0.016"/>
+  <testcase classname="RegressionTest1" name="test337" time="0"/>
   <testcase classname="RegressionTest1" name="test338" time="0"/>
   <testcase classname="RegressionTest1" name="test339" time="0"/>
   <testcase classname="RegressionTest1" name="test340" time="0"/>
@@ -946,7 +946,7 @@
   <testcase classname="RegressionTest1" name="test380" time="0"/>
   <testcase classname="RegressionTest1" name="test381" time="0"/>
   <testcase classname="RegressionTest1" name="test382" time="0"/>
-  <testcase classname="RegressionTest1" name="test383" time="0"/>
+  <testcase classname="RegressionTest1" name="test383" time="0.016"/>
   <testcase classname="RegressionTest1" name="test384" time="0"/>
   <testcase classname="RegressionTest1" name="test385" time="0"/>
   <testcase classname="RegressionTest1" name="test386" time="0"/>
@@ -998,7 +998,7 @@
   <testcase classname="RegressionTest1" name="test432" time="0"/>
   <testcase classname="RegressionTest1" name="test433" time="0"/>
   <testcase classname="RegressionTest1" name="test434" time="0"/>
-  <testcase classname="RegressionTest1" name="test435" time="0.016"/>
+  <testcase classname="RegressionTest1" name="test435" time="0"/>
   <testcase classname="RegressionTest1" name="test436" time="0"/>
   <testcase classname="RegressionTest1" name="test437" time="0"/>
   <testcase classname="RegressionTest1" name="test438" time="0"/>
@@ -1168,7 +1168,7 @@
   <testcase classname="RegressionTest2" name="test102" time="0"/>
   <testcase classname="RegressionTest2" name="test103" time="0"/>
   <testcase classname="RegressionTest2" name="test104" time="0"/>
-  <testcase classname="RegressionTest2" name="test105" time="0.016"/>
+  <testcase classname="RegressionTest2" name="test105" time="0"/>
   <testcase classname="RegressionTest2" name="test106" time="0"/>
   <testcase classname="RegressionTest2" name="test107" time="0"/>
 </testsuite>
